@@ -6,6 +6,7 @@
 * Testnet: [https://testnet.somnex.xyz/](https://testnet.somnex.xyz/)
 * Discord: [https://discord.gg/Vb2BC2yrsC](https://discord.gg/Vb2BC2yrsC)
 * X (Twitter): [https://x.com/SomnexXYZ](https://x.com/SomnexXYZ)
+* Link3 (one page links): [https://link3.to/somnex](https://link3.to/somnex)
 
 ### Supported wallets
 
