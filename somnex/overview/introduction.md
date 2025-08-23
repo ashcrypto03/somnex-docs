@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Somnex makes trading and liquidity simple, efficient, and fast on Somnia.
+**Somnex** is a Native, one-stop DeFi on Somnia: Swap Aggregator • Perpetuals • Liquidity Layer (V2/V3/Perp Pools) • Meme Launch.
 
 ### What you can do on Somnex
 
