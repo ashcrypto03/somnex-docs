@@ -4,7 +4,7 @@
 
 Somnex SpotX is a smart swap aggregator that searches liquidity across the Somnia ecosystem and executes the best total price (price + slippage + gas). It combines Somnex V2/V3, QuickSwap, Somnia Exchange, and other venues via real‑time smart routing.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="SpotX — Swap Aggregator UI"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="SpotX — Swap Aggregator UI"><figcaption></figcaption></figure>
 
 _SpotX — Swap Aggregator UI_
 

@@ -29,7 +29,7 @@
 
 _Perp Trading screen_
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 _SpotX — Swap Aggregator_
 

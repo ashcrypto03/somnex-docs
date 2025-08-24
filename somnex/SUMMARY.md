@@ -13,10 +13,8 @@
 * [Swap Aggregator](product-mechanism/swap-aggregator.md)
 * [Perp Trade](product-mechanism/perp-trade.md)
 * [Meme Launch](product-mechanism/meme-launch.md)
-* [Add Liquidity Create Farm](product-mechanism/add-liquidity-create-farm.md)
-* [Liquidation](product-mechanism/liquidation.md)
+* [Liquidity Pools](product-mechanism/add-liquidity-create-farm.md)
 * [How To Earn](product-mechanism/how-to-earn.md)
-* [Liquidity and Safe](product-mechanism/liquidity-and-safe.md)
 
 ## Fundamentals
 
