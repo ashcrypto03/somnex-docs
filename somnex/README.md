@@ -25,11 +25,11 @@
 2. Select SpotX to swap, Perp to trade perps, Earn to add liquidity, or Meme to launch/discover tokens.
 3. Use the Referrals tab to create your code and share it.
 
-![](<.gitbook/assets/0 (1).png>)
+![](<.gitbook/assets/0 (1) (1).png>)
 
 _Perp Trading screen_
 
-![](<.gitbook/assets/1 (3).png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 _SpotX — Swap Aggregator_
 
